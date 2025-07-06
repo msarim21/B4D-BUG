@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "docker:build": "docker build -t azhanbot .",
-    "docker:run": "docker run -e SESSION_ID=$SESSION_ID azhantbot"
+    "docker:run": "docker run -e SESSION_ID=MVKc8spQ57pm9Jox9ZHuKy9gEoLROvlno4o3mnqF1tI="
   },
   "keywords": [
     "whatsapp-bot"
